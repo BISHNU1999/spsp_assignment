@@ -17,7 +17,7 @@ ylabel('ev')
 
 
 subplot(3,1,3)
-stem(n,od)
+stem(u,od)
 title('Odd part')
 xlabel('u')
 ylabel('odd')
