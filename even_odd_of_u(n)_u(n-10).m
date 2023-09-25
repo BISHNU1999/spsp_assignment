@@ -8,7 +8,7 @@ xlabel('n')
 ylabel('x(n)')
 %𝑥(𝑛) = 𝑢(𝑛) − 𝑢(𝑛 − 10)
 
-[ev, od, u] = odd_even_function( d1-g1,h)
+[ev, od, u] = odd_even_function( s1-s2,n)
 subplot(3,1,2)
 stem(u,ev)
 title('Even part')
