@@ -11,8 +11,9 @@
   title("shifting");
   %scaling
   subplot(3,2,3);
-  stem(n1,x1*2  x2=[-1:5];
-  subplot(3,2,4););
+  stem(n1,x1*2);
+  x2=[-1:5];
+  subplot(3,2,4);
   %second sequence
   n2=1:7;
 
