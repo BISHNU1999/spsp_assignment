@@ -6,7 +6,7 @@ u=10*(v-20>=0);
 [e,o,n] = odd_even_function(r-rn-u,v);
 
 subplot(3,1,1)
-stem(h,r-rn-u)
+stem(v,r-rn-u)
 xlim([-20 20])
 title('Original Sequence')
 
